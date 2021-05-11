@@ -1,1 +1,1 @@
-<h1> HACKERRANK_SOLUTION </h1>
+<h1> HackerRank_Solution </h1>

@@ -1,2 +1,2 @@
 <h1> HACKERRANK_SOLUTION </h1>
-Hi I AM DHYAN
+<h2> Hi I AM DHYAN </h2>

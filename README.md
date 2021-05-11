@@ -1,14 +1,9 @@
-<!DOCTYPE>
-<html>
-    <head>
-        <style>
-             body {background-color: powderblue;}
-             h1   {color: blue;}
-             p    {color: red;}
-        </style>
-    </head>
-    <body>
-        <h1> # HACKERRANK_SOLUTION </h1>
-        <h3> Hi I AM DHYAN </h3>
-    </body>
-</html>
+# Color Test Document
+
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
+
+## Second Heading
+
+This is a test to see how the colors work.

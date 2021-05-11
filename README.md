@@ -1,12 +1,12 @@
-<h2> HACKERRANK_SOLUTION </h2>
+
 <h2> Hi I AM DHYAN </h2>
 
 <!DOCTYPE>
 <html>
     <head>
-        <link rel="stylesheet" href="http://code.jquery.com/qunit/git/qunit.css" type="text/css" media="screen" />
     </head>
     <body>
+        <h1> HACKERRANK_SOLUTION </h1>
         <h1 id="qunit-header">QUnit example</h1>
         <h2 id="qunit-banner"></h2>
         <div id="qunit-testrunner-toolbar"></div>

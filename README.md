@@ -1,21 +1,9 @@
-
-<h2> Hi I AM DHYAN </h2>
-
 <!DOCTYPE>
 <html>
     <head>
     </head>
     <body>
         <h1> HACKERRANK_SOLUTION </h1>
-        <h1 id="qunit-header">QUnit example</h1>
-        <h2 id="qunit-banner"></h2>
-        <div id="qunit-testrunner-toolbar"></div>
-        <h2 id="qunit-userAgent"></h2>
-        <ol id="qunit-tests"></ol>
-        <div id="qunit-fixture">test markup, will be hidden</div>
-        <script src="http://code.jquery.com/jquery-latest.js"></script>
-        <script type="text/javascript" src="http://code.jquery.com/qunit/git/qunit.js"></script>  
-        <script type="text/javascript" src="https://raw.github.com/LarryBattle/Ratio.js/master/src/Ratio.js"></script>  
-        <script type="text/javascript" src="https://raw.github.com/LarryBattle/Ratio.js/master/tests/js/Ratio-testcases.js"></script>  
+        <h3> Hi I AM DHYAN </h3>
     </body>
 </html>

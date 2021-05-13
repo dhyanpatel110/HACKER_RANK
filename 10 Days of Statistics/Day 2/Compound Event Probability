@@ -7,4 +7,11 @@ Urn Z contains 4 red balls and 4 black balls.
 
 One ball is drawn from each of the 3 urns. What is the probability that, of the 3 balls drawn, 2 are red and 1 is black?
 
-Expla
+==>Let's list the combinations that result in sums greater than 9.
+   (4,6) (6,4) (5,5) (6,5) (5,6) (6,6)
+
+==>Total no of favourable outcomes = 36 - 6 = 30
+
+==>P(event) = Fav. outcomes/Total outcomes = 30/36 = 5/6
+
+==>Answer = 5/6

@@ -14,3 +14,8 @@ Explination:
    
 ==>each die will be different and the two dice have a sum of 6.
   (1,5) , (5,1) , (2,4) , (4,2)
+  
+
+==>Total no of favourable outcomes = 4
+
+==>P(event) = Fav. outcomes/Total outcomes = 4/36 = 1/9

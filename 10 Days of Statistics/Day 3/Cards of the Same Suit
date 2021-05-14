@@ -1,3 +1,14 @@
 Task:
 You draw 2 cards from a standard 52-card deck without replacing them. What is the probability that both cards are of the same suit?
 
+Explination:
+
+==> We have 52 options for the first card 13*4 (4 suites)
+    There are 13 ways to select a color card out of 52
+    Then again if you pick one more card, there are 12 remaining of the same color, out of total 51 remainig cards.
+    P(E) = 12/51
+    
+==> Answer = 12/51
+    
+
+

@@ -19,6 +19,7 @@ k = float(input())
 e = 2.71828
 
 # Gets the result and show on the screen
+# 3 denotes decimal places (i.e., 1.234  format):
 result = ((lam ** k) * (e ** -lam)) /  factorial(k)
 print(round(result, 3))
 

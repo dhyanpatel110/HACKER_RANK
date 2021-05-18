@@ -14,9 +14,9 @@ This repository contains the hackerrank statistics challenge code.
 | :------------ |:--------------------------------------- |:-----:|
 | 0             | Hello world                             | easy  |
 | 0             | Data Types                              | easy  |
-| 1             | Quartiles                               | easy  |
-| 1             | Interquartile Range                     | easy  |
-| 1             | Standard Deviation                      | easy  |
+| 1             | Arithmetic Operators                    | easy  |
+| 1             | Functions                               | easy  |
+| 1             | Let and Const                           | easy  |
 | 2             | Basic Probability                       | easy  |
 | 2             | More Dice                               | easy  |
 | 3             | Compound Event Probability              | easy  |

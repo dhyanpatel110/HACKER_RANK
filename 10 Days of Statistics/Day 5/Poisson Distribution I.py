@@ -21,3 +21,4 @@ e = 2.71828
 # Gets the result and show on the screen
 result = ((lam ** k) * (e ** -lam)) /  factorial(k)
 print(round(result, 3))
+

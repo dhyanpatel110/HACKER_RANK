@@ -16,3 +16,6 @@ n = int(input())
 # 3 denotes decimal places (i.e., 1.234  format):
 result = q ** (n - 1) * p
 print(round(result, 3))
+
+
+

@@ -13,12 +13,13 @@ def factorial(n):
     if n > 1:
         return factorial(n - 1) * n
 
-# Set data
+# Input data
 lam = float(input())
 k = float(input())
 e = 2.71828
 
-# Gets the result and show on the screen
+# We can show result on the screen
+# The round() function returns a floating point number that is a rounded version of the specified number, with the specified number of decimals.
 # 3 denotes decimal places (i.e., 1.234  format):
 result = ((lam ** k) * (e ** -lam)) /  factorial(k)
 print(round(result, 3))

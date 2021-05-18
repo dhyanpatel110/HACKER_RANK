@@ -12,8 +12,8 @@ This repository contains the hackerrank statistics challenge code.
 
 | Day           | Challenge                               | Level |
 | :------------ |:--------------------------------------- |:-----:|
-| 0             | Mean, Median, and Mode                  | easy  |
-| 0             | Weighted Mean                           | easy  |
+| 0             | Hello world                             | easy  |
+| 0             | Data Types                              | easy  |
 | 1             | Quartiles                               | easy  |
 | 1             | Interquartile Range                     | easy  |
 | 1             | Standard Deviation                      | easy  |

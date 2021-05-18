@@ -26,7 +26,7 @@ sample_std_dev = math.sqrt(num_boxes) * std_dev
 # We can show result on the screen
 # The round() function returns a floating point number that is a rounded version of the specified number, with the specified number of decimals.
 # 4 denotes decimal places (i.e., 1.2345  format):
-ans = cumulative(num_boxes * avg, math.sqrt(num_boxes) * std_dev, 9800)
+ans = cumulative(sample_avg, sample_std_dev, 9800)
 print (round(ans, 4))
 
 

@@ -17,26 +17,26 @@ This repository contains the hackerrank statistics challenge code.
 | 1             | Arithmetic Operators                    | easy  |
 | 1             | Functions                               | easy  |
 | 1             | Let and Const                           | easy  |
-| 2             | Basic Probability                       | easy  |
-| 2             | More Dice                               | easy  |
-| 3             | Compound Event Probability              | easy  |
-| 3             | Cards of the Same Suit                  | easy  |
-| 3             | Drawing Marbles                         | easy  |
-| 4             | Binomial Distribution I                 | easy  |
-| 4             | Binomial Distribution II                | easy  |
-| 4             | Geometric Distribution I                | easy  |
-| 4             | Geometric Distribution II               | easy  |
-| 5             | Poisson Distribution I                  | easy  |
-| 5             | Poisson Distribution II                 | easy  |
-| 5             | Normal Distribution I                   | easy  |
-| 5             | Normal Distribution II                  | easy  |
-| 6             | The Central Limit Theorem I             | easy  |
-| 6             | The Central Limit Theorem II            | easy  |
-| 6             | The Central Limit Theorem III           | easy  |
-| 7             | Pearson Correlation Coefficient I       | easy  |
-| 7             | Spearman's Rank Correlation Coefficient | easy  |
-| 8             | Least Square Regression Line            | easy  |
-| 8             | Pearson Correlation Coefficient II      | medium|
-| 9             | Multiple Linear Regression              | medium|
+| 2             | Conditional Statements: If-Else         | easy  |
+| 2             | Conditional Statements: Switch          | easy  |
+| 2             | Loops                                   | easy  |
+| 3             | Arrays                                  | easy  |
+| 3             | Try, Catch, and Finally                 | easy  |
+| 3             | Throw                                   | easy  |
+| 4             | Create a Rectangle Object               | easy  |
+| 4             | Count Objects                           | easy  |
+| 4             | Classes                                 | easy  |
+| 5             | Inheritance                             | easy  |
+| 5             | Template Literals                       | easy  |
+| 5             | Arrow Functions                         | easy  |
+| 6             | Bitwise Operators                       | easy  |
+| 6             | JavaScript Dates                        | easy  |
+| 7             | Regular Expressions I                   | easy  |
+| 7             | Regular Expressions II                  | easy  |
+| 7             | Regular Expressions III                 | easy  |
+| 8             | Create a Button                         | easy  |
+| 8             | Buttons Container                       | easy  |
+| 9             | Binary Calculator                       | medium|
+
 
 

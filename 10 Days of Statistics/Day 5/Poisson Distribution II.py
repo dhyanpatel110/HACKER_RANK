@@ -5,12 +5,13 @@
 # The number of repairs, Y, that machine B needs is a Poisson random variable with mean 1.55. 
 # The daily cost of operating B is C = 128 + 40Y².
 
-# Set data
+# Input data
 lambdas = list(map(float, input().split()))
 lambda_a = lambdas[0]
 lambda_b = lambdas[1]
 
-# Gets the result and show on the screen
-# 3 denotes that 
+# We can show result on the screen
+# The round() function returns a floating point number that is a rounded version of the specified number, with the specified number of decimals.
+# 3 denotes decimal places (i.e., 1.234  format):
 print (round(160 + 40 * (lambda_a + lambda_a ** 2), 3))
 print (round(128 + 40 * (lambda_b + lambda_b ** 2), 3))

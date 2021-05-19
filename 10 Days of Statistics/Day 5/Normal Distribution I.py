@@ -26,3 +26,7 @@ between_period = list(map(float, input().split()))
 # 3 denotes decimal places (i.e., 1.234  format):
 print (round(cumulative(mean, std, less_period),3))
 print (round(cumulative(mean, std, between_period[1]) - cumulative(mean, std, between_period[0]), 3))
+
+
+
+

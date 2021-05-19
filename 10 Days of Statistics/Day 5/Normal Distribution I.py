@@ -5,3 +5,24 @@
 # 2. Between 20 and 22 hours?
 
 
+# Import library
+import math
+
+# Define functions
+# The math.erf() method returns the error function of a number (find positive and negative number)
+# The math.sqrt() method returns the square root of a number.
+def cumulative(mean, std, value):
+    return 0.5 * (1 + math.erf((value - mean) / (std * math.sqrt(2))))
+
+# Input data
+initial_values = list(map(float, input().split()))
+mean = initial_values[0]
+std = initial_values[1]
+less_period = float(input())
+between_period = list(map(float, input().split()))
+
+# We can show result on the screen
+# The round() function returns a floating point number that is a rounded version of the specified number, with the specified number of decimals.
+# 3 denotes decimal places (i.e., 1.234  format):
+print (round(cumulative(mean, std, less_period),3))
+print (round(cumulative(mean, std, between_period[1]) - cumulative(mean, std, between_period[0]), 3))

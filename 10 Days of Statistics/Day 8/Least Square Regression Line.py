@@ -12,8 +12,8 @@ regression X:
 regression Y:
 4x + 3y + 7 = 0
      3y + 7 = -4x
- 3y/4 + 7/4 = -x (reverse signal)
--3y/4 - 7/4 =  x
+ 3y/4 + 7/4 = -x 
+-3y/4 - 7/4 =  x (reverse signal)
          by = -3/4
 
 r² = bx * by

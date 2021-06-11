@@ -13,3 +13,11 @@
 
 [View Profile](https://www.hackerrank.com/dhyanpatel110)
 
+## HackerRank Badges
+
+![Python](/Badges/python_5_star.png)
+![SQL](/Badges/sql_5_star.png)
+![10 Days of JavaScript](/Badges/10_days_of_javascript_5_star.png)
+![10 Days of Statistics](/Badges/10_days_of_statistics_5_star.png)
+![30 Days of Code](/Badges/30_days_of_code_5_star.png)
+

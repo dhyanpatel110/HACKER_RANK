@@ -7,5 +7,5 @@
 </div>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/dhyanpatel110/HACKERRANK)](https://github.com/dhyanpatel110/HACKERRANK/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/nathan-abela/HackerRank-Solutions)](https://github.com/nathan-abela/HackerRank-Solutions/archive/master.zip)
+[![GitHub repo size](https://img.shields.io/github/repo-size/dhyanpatel110/HACKERRANK)](https://github.com/dhyanpatel110/HACKERRANK/archive/master.zip)
 

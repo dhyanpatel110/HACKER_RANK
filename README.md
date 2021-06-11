@@ -20,3 +20,12 @@
 ![10 Days of Statistics](/Badges/10_days_of_statistics_5_star.png)
 ![30 Days of Code](/Badges/30_days_of_code_5_star.png)
 
+## HackerRank Certificates
+
+<a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
+    <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+</a>
+<a href="Skills%20Certification/JavaScript%20(Basic)%20Certificate.png">
+    <img src="Badges/javascript_basic_skill.png" alt="JavaScript (Basic) Certificate"/>
+</a>
+

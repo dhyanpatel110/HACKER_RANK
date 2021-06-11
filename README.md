@@ -10,3 +10,6 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/dhyanpatel110/HACKERRANK)](https://github.com/dhyanpatel110/HACKERRANK/archive/master.zip)
 
 ## Personal HackerRank Profile
+
+[View Profile](https://www.hackerrank.com/dhyanpatel110)
+

@@ -1,7 +1,7 @@
 - Introduction
    - [Say Hello, World! With Python](Introduction/SayHelloWorldWithPython.py)
    - [Python If-Else](Introduction/Python If-Else.py)
-   - [Arithmetic Operators](Introduction/Arithmetic Operators.py)
+   - [Arithmetic Operators](Introduction/Arithmetic_Operators.py)
    - [Python: Division](Introduction/Python_Division.py)
    - [Loops](Introduction/Loops.py)
    - [Write a function](Introduction/Writeafunction.py)

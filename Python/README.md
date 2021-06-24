@@ -5,4 +5,4 @@
    - [Python: Division](Introduction/Python_Division.py)
    - [Loops](Introduction/Loops.py)
    - [Write a function](Introduction/Write_a_function.py)
-   - [Print Function](Introduction/PrintFunction.py)
+   - [Print Function](Introduction/Print_Function.py)

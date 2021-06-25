@@ -9,7 +9,7 @@
 - Basic Data Types
    - [Lists](BasicDataTypes/Lists.py)
    - [Tuples](BasicDataTypes/Tuples.py)
-   - [List Comprehensions](BasicDataTypes/List_Comprehensions.py)
+   - [List Comprehensions](Basic Data Types/List_Comprehensions.py)
    - [Find the Runner-Up Score!](BasicDataTypes/FindtheSecondLargestNumber.py)
    - [Nested Lists](BasicDataTypes/NestedLists.py)
    - [Finding the percentage](BasicDataTypes/Findingthepercentage.py)

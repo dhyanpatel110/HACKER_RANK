@@ -10,6 +10,6 @@
    - [Lists](Basic_Data_Types/Lists.py)
    - [Tuples](Basic_Data_Types/Tuples.py)
    - [List Comprehensions](Basic_Data_Types/List_Comprehensions.py)
-   - [Find the Runner-Up Score!](Basic_Data_Types/FindtheSecondLargestNumber.py)
+   - [Find the Runner-Up Score!](Basic_Data_Types/Find_the_Runner_Up_Score.py)
    - [Nested Lists](Basic_Data_Types/Nested_Lists.py)
    - [Finding the percentage](Basic_Data_Types/Findingthepercentage.py)

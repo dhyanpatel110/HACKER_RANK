@@ -11,5 +11,5 @@
    - [Tuples](Basic_Data_Types/Tuples.py)
    - [List Comprehensions](Basic_Data_Types/List_Comprehensions.py)
    - [Find the Runner-Up Score!](Basic_Data_Types/FindtheSecondLargestNumber.py)
-   - [Nested Lists](Basic_Data_Types/NestedLists.py)
+   - [Nested Lists](Basic_Data_Types/Nested_Lists.py)
    - [Finding the percentage](Basic_Data_Types/Findingthepercentage.py)

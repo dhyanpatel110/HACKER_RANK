@@ -32,12 +32,12 @@ CODE:
           elif ip[0] == "append":
               Output.append(int(ip[1]))
           elif ip[0] == "sort":
-              Output.sort();
-              
-              
-              
-              
-              
+              Output.sort();   
           else:
               Output.reverse();
+              
+              
+              
+              
+              
   

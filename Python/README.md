@@ -15,7 +15,7 @@
    - [Finding the percentage](Basic_Data_Types/Finding_the_percentage.py)
  - Strings
    - [sWAP cASE](Strings/sWAPcASE.py)
-   - [String Split and Join](Strings/StringSplitandJoin.py)
+   - [String Split and Join](Strings/String_Split_and_Join.py)
    - [Whats Your Name?](Strings/WhatsYourName.py)
    - [Mutations](Strings/Mutations.py)
    - [Find a string](Strings/Findastring.py)

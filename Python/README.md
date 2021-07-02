@@ -16,7 +16,7 @@
  - Strings
    - [sWAP cASE](Strings/sWAPcASE.py)
    - [String Split and Join](Strings/String_Split_and_Join.py)
-   - [Whats Your Name?](Strings/WhatsYourName.py)
+   - [Whats Your Name?](Strings/What's_Your_Name.py)
    - [Mutations](Strings/Mutations.py)
    - [Find a string](Strings/Findastring.py)
    - [String Validators](Strings/StringValidators.py)

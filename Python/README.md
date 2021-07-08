@@ -19,7 +19,7 @@
    - [Whats Your Name?](Strings/What's_Your_Name.py)
    - [Mutations](Strings/Mutations.py)
    - [Find a string](Strings/Findastring.py)
-   - [String Validators](Strings/StringValidators.py)
+   - [String Validators](Strings/String_Validators.py)
    - [Text Alignment](Strings/TextAlignment.py)
    - [Text Wrap](Strings/TextWrap.py)
    - [Designer Door Mat](Strings/DesignerDoorMat.py)

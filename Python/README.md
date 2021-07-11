@@ -14,7 +14,7 @@
    - [Nested Lists](Basic_Data_Types/Nested_Lists.py)
    - [Finding the percentage](Basic_Data_Types/Finding_the_percentage.py)
  - Strings
-   - [sWAP cASE](Strings/sWAPcASE.py)
+   - [sWAP cASE](Strings/sWAP_cASE.py)
    - [String Split and Join](Strings/String_Split_and_Join.py)
    - [Whats Your Name?](Strings/What's_Your_Name.py)
    - [Mutations](Strings/Mutations.py)

@@ -28,7 +28,7 @@
    - [Capitalize!](Strings/Capitalize.py)
    - [The Minion Game](Strings/TheMinionGame.py)
 - Sets
-   - [Introduction to Sets](Sets/IntroductiontoSets.py)
+   - [Introduction to Sets](Sets/Introduction_to_Sets.py)
    - [Symmetric Difference](Sets/SymmetricDifference.py)
    - [No Idea!](Sets/NoIdea.py)
    - [Set .add()](Sets/Setadd.py)

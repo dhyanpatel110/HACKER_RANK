@@ -1,3 +1,4 @@
+'''
 Output Format:
   Output the integer number indicating the total number of occurrences of the substring in the original string.
 
@@ -7,7 +8,7 @@ Sample Input:
   
 Sample Output:
   2
-  
+'''  
 CODE:
   def count_substring(string, sub_string):
     count = 0

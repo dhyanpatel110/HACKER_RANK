@@ -1,6 +1,8 @@
+'''
 EXAMPLE:
   n = 5
   Print the string 12345.
+'''
 
 CODE:
   if __name__ == '__main__':

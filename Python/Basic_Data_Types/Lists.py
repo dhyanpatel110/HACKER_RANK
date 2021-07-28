@@ -1,3 +1,4 @@
+'''
 EXAMPLE:
   N = 4
   append 1
@@ -11,7 +12,7 @@ EXAMPLE:
   
   Output:
   [1,3,2]
-  
+''' 
 
 CODE:  
   # Lists in Python - Hacker Rank Solution

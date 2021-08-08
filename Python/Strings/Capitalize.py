@@ -1,8 +1,10 @@
+'''
 Sample Input:
   chris alan
 
 Sample Output:
   Chris Alan
+'''
 
 CODE:
   import math

@@ -1,3 +1,4 @@
+'''
 Task:
   Read a given string, change the character at a given index and then print the modified string.
   
@@ -8,6 +9,7 @@ Example:
 >>> string = ''.join(l)
 >>> print string
 abrackdabra
+'''
 
 CODE:
   def mutate_string(string, position, character):

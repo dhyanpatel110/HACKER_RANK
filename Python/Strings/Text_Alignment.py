@@ -1,3 +1,4 @@
+'''
 .ljust(width)
 This method returns a left aligned string of length width.
 >>> width = 20
@@ -43,8 +44,9 @@ HHHHHHHHH
                       HHHHH   
                        HHH    
                         H 
-       
-CODE:
+'''
+
+#CODE:
   
   thickness = int(input())
   c = 'H'

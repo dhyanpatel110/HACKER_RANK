@@ -1,3 +1,4 @@
+'''
 Task:
   You are given a string .
   Your task is to find out if the string  contains: alphanumeric characters, alphabetical characters, digits, lowercase and uppercase characters.
@@ -6,7 +7,7 @@ Task:
     str.isdigit():This method checks if all the characters of a string are digits (0-9).
     str.islower():This method checks if all the characters of a string are lowercase characters (a-z).
     str.isupper():This method checks if all the characters of a string are uppercase characters (A-Z).
-      
+'''    
       
 CODE:
   if __name__ == '__main__':

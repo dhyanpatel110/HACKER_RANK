@@ -1,3 +1,4 @@
+'''
 #TASK:
   You are given a string. Split the string on a " " (space) delimiter and join using a - hyphen.
  
@@ -10,6 +11,7 @@
   >>> a = "-".join(a)
   >>> print a
   this-is-a-string 
+'''
 
 #CODE:
   def split_and_join(line):

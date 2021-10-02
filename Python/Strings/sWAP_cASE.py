@@ -4,7 +4,7 @@ For Example:
   Pythonist 2 → pYTHONIST 2 
 '''
 
-CODE:
+#CODE:
   def swap_case(sentence):
     updated_s = ""
     for c in sentence:

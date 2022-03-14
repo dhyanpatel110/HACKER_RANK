@@ -6,7 +6,7 @@ Sample Output:
   Chris Alan
 '''
 
-CODE:
+#CODE:
   import math
   import os
   import random
